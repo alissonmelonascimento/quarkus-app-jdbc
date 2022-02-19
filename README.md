@@ -1,4 +1,4 @@
-# SIAOI-APP-JDBC
+# QUARKUS-APP-JDBC
 
 Exemplo de projeto feito em Quarkus para demonstrar a interação com o banco de dados PostgreSQL por meio de JDBC.
 
